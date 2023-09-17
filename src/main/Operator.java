@@ -10,7 +10,7 @@ public class Operator {
 
 	private FileWriter fileWriter;
 	private final String BASE_URL = "https://api.spotify.com/v1/";
-	private final String authCode = "Bearer BQBhiN1aIPcy-pRmdS_yxnrB2UgBrwSKPng1pb6ftal7iOJpSQdM6QxAmhK7O4rZljfWQ-7hpJ-Khem1s34ogb8yVHg-_JTfdX1iY07Hr3FqYV1DA3A";
+	private final String authCode = "Bearer";
 
 	
 	public Operator() {
